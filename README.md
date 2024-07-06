@@ -29,6 +29,6 @@
 
 # 🌐 LANGUAGE
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 45%; height: 300px; margin-right: 2%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pisceskibo&theme=tokyonight" style="width: 45%; height: 300px; margin-left: 2%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 45%; height: 200px; margin-right: 2%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pisceskibo&theme=tokyonight" style="width: 45%; height: 200px; margin-left: 2%;">
 </div>
