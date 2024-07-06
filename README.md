@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 📊GitHub Overview
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 1%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-left: 1%;">
+</div>
+
 # 💻Tech Stack
 ### 1. Tools:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
@@ -43,16 +49,15 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  	
 
+# 🌐 Language Rate
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 38%; margin-left: 1%;">
 
-# 📊GitHub Overview
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 1%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-left: 1%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 38%; margin-left: 1%;">
-</div>
+
+
 
 # 🏆GitHub Rank
 ![](https://github-trophies.vercel.app/?username=pisceskibo&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 ---
