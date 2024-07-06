@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 # 📊GitHub Overview
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 180px;">
     <img src="https://github-readme-stats.vercel.app/api?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 1%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-left: 1%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 38%; margin-left: 1%;">
