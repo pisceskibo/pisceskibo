@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pisceskibo) 
-
 # 💻Tech Stack
 ### 1. Tools:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
@@ -48,19 +44,16 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  	
 
 
-# 📊GitHub Stats
-### 1. Overview:
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 48%;">
+# 📊GitHub Overview
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 1%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-left: 1%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 38%; margin-left: 1%;">
 </div>
 
-### 2. Popular Language:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-# 🏆GitHub Trophies
+# 🏆GitHub Rank
 ![](https://github-trophies.vercel.app/?username=pisceskibo&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
+
 
 ---
 # [![](https://visitcount.itsvg.in/api?id=pisceskibo&icon=0&color=0)](https://visitcount.itsvg.in)
