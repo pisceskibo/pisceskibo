@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!-- https://github-profile-maker.vercel.app/
 **pisceskibo/pisceskibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GITHUB OVERVIEW
+
+
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 45%; height: 200px; margin-right: 2%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 45%; height: 200px; margin-left: 2%;">
 </div>
+
 
 # 💻 FULLSTACK
 ### 1. Tools:
