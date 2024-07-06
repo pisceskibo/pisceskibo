@@ -52,8 +52,5 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  	
 
-# 🌐 LANGUAGE RATE
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
-
----
-# [![](https://visitcount.itsvg.in/api?id=pisceskibo&icon=0&color=0)](https://visitcount.itsvg.in)
+# [![](https://visitcount.itsvg.in/api?id=pisceskibo&icon=0&color=0)](https://visitcount.itsvg.in) LANGUAGE RATE
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"> 
