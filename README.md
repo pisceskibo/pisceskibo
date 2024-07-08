@@ -2,8 +2,6 @@
 **pisceskibo/pisceskibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center"> IT DEVELOPER </h1>
-
 # 👋 INTRODUCE 
 - Name: Tạ Quang Tùng (Kibo)
 - Birthday: 06/03/2003
