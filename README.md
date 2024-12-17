@@ -15,7 +15,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%;">
 </div>
 
-
 # 💻 FULLSTACK
 ### 1. Tools: ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
