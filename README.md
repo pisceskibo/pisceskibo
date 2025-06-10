@@ -26,7 +26,6 @@
 + Web Framework: ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4F00?style=flat-square&logo=streamlit)
 + GUI Framework: ![Tkinter](https://img.shields.io/badge/Tkinter-%231769a7.svg?style=flat-square&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-%23188b00.svg?style=flat-square&logo=qt&logoColor=white)
 
-
 ### 5. Database: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  	
 
 # 🌐 LANGUAGE
