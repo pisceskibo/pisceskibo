@@ -16,7 +16,7 @@
 </div>
 
 # 💻 FULLSTACK
-### 1. Tools: ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-%2346328A.svg?style=flat-square&logo=dbeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Qt Creator](https://img.shields.io/badge/Qt_Creator-%23217346.svg?style=flat-square&logo=qt&logoColor=white) 
+### 1. Platforms: ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-%2346328A.svg?style=flat-square&logo=dbeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Qt Creator](https://img.shields.io/badge/Qt_Creator-%23217346.svg?style=flat-square&logo=qt&logoColor=white) 
 
 ### 2. Backend Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Cython](https://img.shields.io/badge/Cython-%231C78C0.svg?style=flat-square&logo=cython&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) 
 
