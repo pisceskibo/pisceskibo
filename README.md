@@ -2,7 +2,7 @@
 **pisceskibo/pisceskibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 INTRODUCE 
+# 👋 INTRODUCTION
 - Name: Tạ Quang Tùng (Kibo)
 - Birthday: 06/03/2003
 - Major: Mathematics and Computer Science
@@ -14,6 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisceskibo&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%;">
 </div>
+
 
 # 💻 FULLSTACK
 ### 1. Platforms: ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-%2346328A.svg?style=flat-square&logo=dbeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Qt Creator](https://img.shields.io/badge/Qt_Creator-%23217346.svg?style=flat-square&logo=qt&logoColor=white) 
@@ -35,11 +36,13 @@
 + IDEs Toolkits: ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 + Text Editors: ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
 
+
 # 🌐 LANGUAGE
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskibo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 45%; height: 200px; margin-right: 2%;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pisceskibo&theme=tokyonight&hide_border=false" style="width: 45%; height: 200px; margin-left: 2%;">
 </div>
+
 
 # 🏆 HISTORY
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
