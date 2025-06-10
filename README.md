@@ -31,7 +31,7 @@
 
 ### 6. Databases: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  	
 
-### 7. Dev Toolkits: 
+### 7. Toolkits: 
 + Microsoft Toolkits: ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-007F5F?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAB8klEQVR4Ae2XPU5DMRCFX4cghhUQ8wYEFBAYCPMBjMBgkYgOMwKEbAHBAMB8ZxzMmtuwyazpfhmc3OW9nuZnDw2DBgwIABAwYMfK/nlFXjZ9i9jQhU5nSbgDyASMHv8rgzKo0blKggQ4G+MvMdUPfVNsI6GZc70OCbU7aNnA6pK8twMMqvIbAI4kcOZL7BNM1tb90BcBxHeXAbAh2ZzGvDbrZFFiZ5FgTxqPo9N34EaekBIrV+Aa1u6mgtbn08FVcOnRxnbG0mHmgslN+ZbV8flfGnR7+SLN6K92AJcU9WQWgr+A+WHDM9CBckXP28U0C3i+TQDNc2B4dFYcQGylcVGt3eWgYA4XwIXu0rwAcwzS34AAAB4mXBpFDCrZVQvtaT6F/B+lM0+0UIeMmVP42o6+yjVmVlDbzEzHzNfnsxOxN23E2jveB0cABAwYMCAAQMGDCjwBv5Bmy7cfHQuQAAAABJRU5ErkJggg==&logoColor=white)
 + IDEs Toolkits: ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 + Text Editors: ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
