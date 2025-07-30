@@ -36,6 +36,8 @@
 + IDEs Toolkits: ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 + Text Editors: ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
 
+### 8. Deployment: ![Render](https://img.shields.io/badge/Render-46A2F1?style=flat-square&logo=render&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-0077B5?style=flat-square) ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 
 # 🌐 LANGUAGE
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
