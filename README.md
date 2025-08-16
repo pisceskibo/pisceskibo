@@ -25,8 +25,8 @@
 
 ### 4. Document Languages: ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 
-### 5. Framework: 
-+ Web Framework: ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4F00?style=flat-square&logo=streamlit)
+### 5. Frameworks: 
++ Web Framework: ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4F00?style=flat-square&logo=streamlit) ![Pyramid](https://img.shields.io/badge/Pyramid-1D476C?style=flat-square&logo=Pyramid&logoColor=white)
 + GUI Framework: ![Tkinter](https://img.shields.io/badge/Tkinter-%231769a7.svg?style=flat-square&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-%23188b00.svg?style=flat-square&logo=qt&logoColor=white)
 
 ### 6. Databases: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  	
@@ -36,7 +36,7 @@
 + IDEs Toolkits: ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 + Text Editors: ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
 
-### 8. Deployment: ![Render](https://img.shields.io/badge/Render-46A2F1?style=flat-square&logo=render&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-0077B5?style=flat-square) ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### 8. Deployments: ![Render](https://img.shields.io/badge/Render-46A2F1?style=flat-square&logo=render&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-0077B5?style=flat-square) ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 
 # 🌐 LANGUAGE
