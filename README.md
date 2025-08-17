@@ -27,7 +27,7 @@
 
 ### 5. Frameworks: 
 + Web Framework: ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4F00?style=flat-square&logo=streamlit) ![Pyramid](https://img.shields.io/badge/Pyramid-1D476C?style=flat-square&logo=Pyramid&logoColor=white)
-+ GUI Framework: ![Tkinter](https://img.shields.io/badge/Tkinter-%231769a7.svg?style=flat-square&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-%23188b00.svg?style=flat-square&logo=qt&logoColor=white)
++ GUI Framework: ![Tkinter](https://img.shields.io/badge/Tkinter-%231769a7.svg?style=flat-square&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-%23188b00.svg?style=flat-square&logo=qt&logoColor=white) ![JavaSwing](https://img.shields.io/badge/JavaSwing-556677?style=flat-square&logo=swing)
 
 ### 6. Databases: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  	
 
