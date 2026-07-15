@@ -5,7 +5,7 @@
 # 👋 INTRODUCTION
 - Name: Tạ Quang Tùng (Kibo)
 - Birthday: 06/03/2003
-- Major: Computational Mathematics and Data Science
+- Major: Mathematics of Computer Science and Data Science
 - School: Hanoi University of Science (HUS - VNU)
 
 
